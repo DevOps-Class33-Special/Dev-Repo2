@@ -5,6 +5,8 @@
 
 name=$1
 group_name=$2
+nationality=$3
 
 echo i go by the name $name
 echo i am a member of group $group_name
+echo i am a $nationality
